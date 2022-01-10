@@ -17,4 +17,5 @@ person.forEach((name) => {
   laenge = name.length;
   
    console.log("Der Name", name, "hat eine Länge von",laenge ,"Buchstaben.");
+   console.log(" ");
 });
