@@ -19,5 +19,6 @@ function name(employees) {
 
 employees.sort();
 employees.forEach((employeeName) => {
-  console.log(employeeName);
+  /*console.log(employeeName);*/
+  console.log(employeeName.length);
 });
