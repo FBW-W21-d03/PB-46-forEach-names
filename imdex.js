@@ -11,11 +11,11 @@ const person = [
   "Amelia",
 ];
 person.sort();
-let laenge = 0;
+
 
 person.forEach((name) => {
-  laenge = name.length;
+
   
-   console.log("Der Name", name, "hat eine Länge von",laenge ,"Buchstaben.");
+   console.log("Der Name", name, "hat eine Länge von",name.length ,"Buchstaben.");
    console.log(" ");
 });
