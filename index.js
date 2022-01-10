@@ -3,7 +3,7 @@ const namen = ["Sammy", "Oscar", "Oliver", "Ava", "Elijah", "Charlotte", "Willia
 console.log(namen);
 // 2 )
 namen.sort();
-console.log(namen.sort());
+console.log(namen);
 
 // 3 )
 namen.forEach(
