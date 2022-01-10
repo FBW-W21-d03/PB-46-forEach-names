@@ -19,5 +19,5 @@ console.log("\n", arrayNamen);
 
 console.log("Aufgabe 3: \n");
 arrayNamen.forEach((dieName) => {
-    console.log("Die Name is : " + dieName.length + " buchstaben;");
+    console.log("Die Name " + dieName + " is " + dieName.length + " buchstaben;");
 });
