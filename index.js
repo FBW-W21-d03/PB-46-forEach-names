@@ -12,6 +12,11 @@ const employees = [
   "James",
   "Amelia",
 ];
+function name(employees) {
+  employees.push(employees);
+  return employees.length;
+}
+
 employees.sort();
 employees.forEach((employeeName) => {
   console.log(employeeName);
