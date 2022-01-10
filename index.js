@@ -7,6 +7,6 @@ console.log(names.sort());
 //Aufgabenstellung - Teil 3
 names.forEach(
     (name) => {
-         console.log(name.length);
+         console.log("Die Länge der Buchstaben von " , name , "ist: " ,name.length , ".");
     }
 );
