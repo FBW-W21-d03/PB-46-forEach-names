@@ -1,7 +1,7 @@
 # javascript-forEach-names
 
 ## Aufgabenstellung - Teil 1
-Schreibe ein Array mit den folgenden Namen: Sammy, Oscar, Oliver, Ava, Elijah, Charlotte, William, Sophia, James, Amelia.
+Schreibe ein Array mit den folgenden NamenSammy, Oscar, Oliver, Ava, Elijah, Charlotte, William, Sophia, James, : Amelia.
 
 ## Aufgabenstellung - Teil 2
 Zuerst soll das Array sortiert werden. Verwende dazu die JavaScript-Methode sort().
